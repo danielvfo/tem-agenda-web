@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1890" height="1417" viewBox="0 0 1890 1417">
+  <defs>
+    <style>
+      .cls-1 {
+        font-size: 200px;
+        font-family: Luminari;
+      }
+
+      .cls-1, .cls-3 {
+        fill: #fff;
+      }
+
+      .cls-2 {
+        fill: #ff9000;
+        fill-rule: evenodd;
+      }
+
+      .cls-3 {
+        font-size: 66.667px;
+        font-family: "Myriad Pro";
+      }
+    </style>
+  </defs>
+  <text id="_Tem_Agenda_" data-name="• Tem Agenda? •" class="cls-1" x="200.16" y="754.142">• Tem Agenda? •</text>
+  <path class="cls-2" d="M62,880V865H1828v15H62Z"/>
+  <path class="cls-2" d="M62,552V537H1828v15H62Z"/>
+  <text id="Crie_agendamentos" data-name="Crie agendamentos" class="cls-3" x="673.808" y="474.029">Crie agendamentos</text>
+  <text id="Para_qualquer_negócio" data-name="Para qualquer negócio" class="cls-3" x="631.226" y="975.463">Para qualquer negócio</text>
+</svg>
